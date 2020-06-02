@@ -3,16 +3,16 @@ def new_hash
 end
 
 def my_hash
-  custom = {:key: "value"}
+  custom = {key: "value"}
 end
 
 def pioneer
-  name = {:name: "Grace Hopper"}
+  name = {name: "Grace Hopper"}
 end
 
 
 def id_hash_generator(number)
 
-generate = {:id: number}
+generate = {id: number}
 
 end
